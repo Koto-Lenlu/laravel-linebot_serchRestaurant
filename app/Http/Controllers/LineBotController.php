@@ -36,9 +36,9 @@ class LineBotController extends Controller
                 continue;
             }
 
-            $replyToken = $event->getReplyToken();
-            $replyText = $event->getText();
-            $lineBot->replyText($replyToken, $replyText);
+        $replyToken = $event->getReplyToken();
+        $replyText = $event->getText();
+        $lineBot->replyText($replyToken, $replyText);
         }
     }
 }
