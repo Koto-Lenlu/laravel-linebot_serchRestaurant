@@ -7,6 +7,7 @@ use LINE\LINEBot\MessageBuilder\Flex\ContainerBuilder;
 
 class RestaurantBubbleBuilder implements ContainerBuilder
 {
+  private const GOOGLE_MAP_URL = 'https://www.google.com/maps';
   private $imageUrl;
   private $name;
   private $closestStation;
