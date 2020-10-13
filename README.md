@@ -2,7 +2,9 @@
 
 ## 概要
 
-* URL: 
+* LINEチャンネルQRコード:
+ <img width="218" alt="スクリーンショット 2020-10-13 17 15 35" src="https://user-images.githubusercontent.com/66056185/95835194-e12d2180-0d78-11eb-88f9-54217e4fe189.png">
+
 
 ### どんなアプリケーションなのか
 #### **お店検索LineBOT**
